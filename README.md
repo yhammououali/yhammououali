@@ -3,7 +3,6 @@
 🚀 **Team Leader (hands-on) & Senior Software Engineer** | Product-driven, problem solver & mentor  
 🎓 **MIAGE** Master's degree - Université Paris 1 Panthéon-Sorbonne  
 🌍 Based in Paris | ✈️ Love traveling (🇬🇷 🇩🇰 🇪🇸 🇮🇩 🇵🇹 🇹🇳 🇺🇸 🇵🇱 🇱🇻)  
-😄 Pronouns: He / Him  
 
 ### 🛠️ Tech Stack  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
